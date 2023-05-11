@@ -24,7 +24,7 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Does Dexfin take any fees?
+								Does DogecoinSwap take any fees?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
@@ -54,13 +54,13 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Will I be eligible for aggregator airdrops if I swap through Dexfin?
+								Will I be eligible for aggregator airdrops if I swap through DogecoinSwap?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						We execute swaps directly against the router of each aggregator, so there's no difference between a swap executed directly from their UI and a swap executed from Dexfin.
+						We execute swaps directly against the router of each aggregator, so there's no difference between a swap executed directly from their UI and a swap executed from DogecoinSwap.
 						<br />
 						<br />
 						Thus, if any of the aggregators we integrate does an airdrop in the future, all swaps made through them would be eligible for their airdrop.
