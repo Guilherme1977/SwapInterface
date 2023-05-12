@@ -40,7 +40,7 @@ export default function Layout({ title, children, defaultSEO = false, ...props }
 	return (
 		<>
 			<Head>
-				<title>{title}</title>
+				<title>The best Dex</title>
 			</Head>
 
 			<ThemeProvider>
