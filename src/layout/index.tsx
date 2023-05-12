@@ -41,6 +41,9 @@ export default function Layout({ title, children, defaultSEO = false, ...props }
 		<>
 			<Head>
 				<title>The best Dex</title>
+				<description>The best Dex</description>
+				
+				
 			</Head>
 
 			<ThemeProvider>
