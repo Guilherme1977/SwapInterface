@@ -36,11 +36,12 @@ interface ILayoutProps {
 	style?: React.CSSProperties
 }
 
-export default function Layout({ title, children, defaultSEO = false, ...props }: ILayoutProps) {
+export default function Layout({ title, description, children, defaultSEO = false, ...props }: ILayoutProps) {
 	return (
 		<>
 			<Head>
-				<title>DogecoinSwap - Dex Aggregator</title>
+				<title>DogecoinSwap - Dex Aggregator </title>
+				
 				
 				
 			</Head>
