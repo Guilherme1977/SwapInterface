@@ -40,8 +40,7 @@ export default function Layout({ title, children, defaultSEO = false, ...props }
 	return (
 		<>
 			<Head>
-				<title>The best Dex</title>
-				<description>The best Dex</description>
+				<title>DogecoinSwap - Dex Aggregator</title>
 				
 				
 			</Head>
