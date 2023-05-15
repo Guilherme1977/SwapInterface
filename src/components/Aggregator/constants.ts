@@ -1,4 +1,4 @@
-export const defillamaReferrerAddress = '0x08a3c2A819E3de7ACa384c798269B3Ce1CD0e437';
+export const defillamaReferrerAddress = '0x6a6Ad9be7a308508712B42337A03e6F27dfE7Ad4';
 
 export const chainsMap = {
 	ethereum: 1,
