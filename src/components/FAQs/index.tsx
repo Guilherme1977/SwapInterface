@@ -30,7 +30,7 @@ export default function FaqWrapper() {
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						Dexfin takes 0 fee on swaps.
+						DogecoinSwap takes 0 fee on swaps.
 						<br />
 						<br /> You'll get the exact same price swapping through DefiLlama as what you'd get swapping through the chosen aggregator directly.
 					</AccordionPanel>
