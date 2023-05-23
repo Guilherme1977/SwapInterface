@@ -69,7 +69,7 @@ export default function TokenLiquidity({ tokenlist }) {
 	};
 
 	return (
-		<Layout title={`Token Liquidity - LlamaSwap`} defaultSEO>
+		<Layout title={`Token Liquidity - DogecoinSwap`} defaultSEO>
 			<Heading alignSelf="center">Token Liquidity</Heading>
 
 			<Flex flexDir="column" gap="20px" marginTop="40px" maxW="48rem" w="100%" marginX="auto">
