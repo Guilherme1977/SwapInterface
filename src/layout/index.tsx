@@ -42,7 +42,7 @@ export default function Layout({ title, children, defaultSEO = false, ...props }
 			<Head>
 				<title>DogecoinSwap - Multichain Dex Aggregator</title>
 				
-				<h2>Sumário</h2>
+				<description>Sumário</description>
                                 <p>Algum texto aqui...</p>
 				
 				
