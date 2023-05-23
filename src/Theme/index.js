@@ -22,7 +22,7 @@ const theme = (darkMode) => ({
     white: '#FFFFFF',
 
     // backgrounds / greys
-    bg1: darkMode ? '#121e33' : '#FAFAFA',
+    bg1: darkMode ? '#ff0000' : '#FAFAFA',
     bg2: darkMode ? '#2C2F36' : '#F7F8FA',
     bg3: darkMode ? '#40444F' : '#EDEEF2',
     bg4: darkMode ? '#565A69' : '#CED0D9',
