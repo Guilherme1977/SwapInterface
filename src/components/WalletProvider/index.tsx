@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { darkTheme, getDefaultWallets, RainbowKitProvider } from ' @rainbow-me/rainbowkit@^1.0.2';
+import { darkTheme, getDefaultWallets, RainbowKitProvider } from '@rainbow-me/rainbowkit@^1.0.2';
 import '@rainbow-me/rainbowkit/styles.css';
 import { configureChains, createClient, WagmiConfig, chain } from 'wagmi@^1.2';
 import { jsonRpcProvider } from 'wagmi/providers/jsonRpc';
